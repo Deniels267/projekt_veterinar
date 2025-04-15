@@ -1,0 +1,16 @@
+Dog{healthy=false, petName='sdf', diseases='fdg', currentWeight=12.3, birthDate=sdfd, petId=12dogBreed='fgd', goodHouseKeeper=true}
+I am speaking
+Almost healthy
+I am eating
+Dog{healthy=false, petName='fdg', diseases='fdgfd', currentWeight=12.3, birthDate=dsdsf, petId=12dogBreed='sddfs', goodHouseKeeper=true}
+I am speaking
+Almost healthy
+I am eating
+Dog{healthy=false, petName='dfg', diseases='fdg', currentWeight=12.3, birthDate=dsfg, petId=12dogBreed='sdg', goodHouseKeeper=true}
+I am speaking
+Almost healthy
+I am eating
+Dog{healthy=false, petName='sdfsdf', diseases='dsfsd', currentWeight=12.3, birthDate=sdfsd, petId=12dogBreed='dsfsd', goodHouseKeeper=true}
+I am speaking
+Almost healthy
+I am eating
